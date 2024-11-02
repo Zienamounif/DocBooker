@@ -1,0 +1,20 @@
+h3{margin-left: 500px;}
+h2{margin-left: 600px;
+margin-top: 100px;}
+input{width: 30%;margin-left:500px;height: 40px;}
+#log{color: #000;margin-left: 530px; height: 40px;
+	width: 100px;
+  	border-color: #e0dfda;
+  	background-color:#166ab5; }
+#link{font-size: 20px; color: #166ab5;}
+input:hover{
+	background-color: #ccc;}
+body{
+	background-image: url("hero-bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+*{
+	border-radius: 500px;
+}

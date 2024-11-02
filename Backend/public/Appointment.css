@@ -1,0 +1,38 @@
+body{
+    background-image: url("hero-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+  }
+  *{
+    border-radius: 300px;
+    font-style:italic;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  input{
+    size: 40px;
+    height: 50px;
+    width: 300px;
+    background-color: #f0f0f0;
+  }
+  
+  textarea{
+    size: 40px;
+    height: 50px;
+    width: 300px;
+    background-color: #f0f0f0;
+    padding-left: 10px;
+  
+  }
+  h2{
+    margin-top: 120PX;
+    font-size: 50px;
+  }
+  button{
+    background-color: #166ab5;
+    border-color: #ccc;
+    height: 40px;
+  
+  }

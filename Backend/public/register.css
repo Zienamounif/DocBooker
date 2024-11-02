@@ -1,0 +1,24 @@
+input{width: 20%;height: 30px;size: 20px;
+    padding-left: 150px;
+    margin-right: 500px;
+    margin-left:500px;border-color: #e9e5e5;
+    border-radius: 500px;
+    }
+input:hover{background-color: #e0dfda}
+h1{margin-top: 100px;margin-left: 500px;}
+h3{margin-left: 500px;}
+button
+{width: 100px;
+margin-left: 650px;size: 30px;height: 35px;border-color: #e0dfda;
+border-radius: 500px;}
+
+button:hover{
+  background-color: #166ab5;
+}
+
+body{
+  background-image: url("C:\Users\DELL\Desktop\web7\project\مشروع نسخه 1\doctor\public\files\hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;	
+}
